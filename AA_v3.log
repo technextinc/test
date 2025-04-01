@@ -1,0 +1,44 @@
+20250329-22:57:13.584000 00000FE8 - ERROR: WM_DPICHANGED 96,96 != 0,0
+20250329-22:57:16.512000 00000FE8 - ERROR: ERROR: 2 RLEvent::TryToOpen(Global\AANS_FvwjZ_CHI)
+20250329-22:57:18.557000 00000FE8 - ERROR: ERROR: 2 RLEvent::TryToOpen(Global\AANS_FvwjZ_CHI)
+20250329-22:57:20.635000 00000FE8 - ERROR: ERROR: 2 RLEvent::TryToOpen(Global\AANS_FvwjZ_CHI)
+20250329-22:57:22.718000 00000FE8 - ERROR: ERROR: 2 RLEvent::TryToOpen(Global\AANS_FvwjZ_CHI)
+20250329-22:57:24.791000 00000FE8 - ERROR: ERROR: 2 RLEvent::TryToOpen(Global\AANS_FvwjZ_CHI)
+20250329-22:57:26.872000 00000FE8 - ERROR: ERROR: 2 RLEvent::TryToOpen(Global\AANS_FvwjZ_CHI)
+20250329-22:57:28.940000 00000FE8 - ERROR: ERROR: 2 RLEvent::TryToOpen(Global\AANS_FvwjZ_CHI)
+20250329-22:57:31.020000 00000FE8 - ERROR: ERROR: 2 RLEvent::TryToOpen(Global\AANS_FvwjZ_CHI)
+20250329-22:57:33.103000 00000FE8 - ERROR: ERROR: 2 RLEvent::TryToOpen(Global\AANS_FvwjZ_CHI)
+20250329-22:57:35.179000 00000FE8 - ERROR: NTS return file not found
+20250329-22:57:35.179285 00000FE8 - ERROR: Module AANS exit with code 0
+20250329-22:57:53.737000 00002654 - ERROR: WM_DPICHANGED 96,96 != 0,0
+20250329-22:57:54.585000 00002654 - ERROR: ERROR: 2 RLEvent::TryToOpen(Global\AANS_FvwjZ_CHI)
+20250330-00:11:03.053000 00005538 - ERROR: WM_DPICHANGED 96,96 != 0,0
+20250330-00:13:37.129000 00004378 - ERROR: ERROR 0 0 in TransportTCP2::ReadExact()#2 in Vr::run_un
+20250330-04:22:07.500000 0000148C - ERROR: Error {12029} occured while connecting to server "http://rl.ammyy.com" 
+20250330-04:22:48.582000 0000148C - ERROR: Error {12029} occured while connecting to server "http://rl.ammyy.com" 
+20250330-20:12:37.687000 00001FEC - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20250330-20:12:37.813066 00001FEC - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20250330-20:12:57.884000 00001FEC - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20250330-20:13:01.587000 00001FEC - ERROR: ERROR: 2 RLEvent::TryToOpen(Global\AANS_FvwjZ_CHI)
+20250330-20:30:13.328000 000016C0 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20250330-20:46:09.162000 00003DEC - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20250331-13:01:08.292000 00003AFC - ERROR: ERROR: 2 RLEvent::TryToOpen(Global\AANS_FvwjZ_CHI)
+20250331-14:13:57.218000 00001F30 - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20250331-15:07:26.250000 00001F30 - ERROR: Module AANS exit with code 13002
+20250331-17:08:55.084000 00003A94 - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20250401-00:07:14.770000 00002194 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20250401-00:21:02.151000 000053B8 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20250401-00:21:02.268056 00003C28 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|136.243.104.242:443,80,8080|136.243.18.122:443,80,8080|
+20250401-01:02:52.795000 000005E8 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20250401-01:03:08.248000 000026F8 - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20250401-01:10:35.204000 00001964 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20250401-01:10:58.225000 00001964 - ERROR: ERROR: 2 RLEvent::TryToOpen(Global\AANS_FvwjZ_CHI)
+20250401-01:40:25.413000 00004A00 - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20250401-15:04:31.503000 00001C64 - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20250401-15:04:31.633967 00001C64 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20250401-15:04:51.692000 00001C64 - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20250401-15:04:51.699509 00001C64 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20250401-15:05:11.775000 00001C64 - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20250401-15:05:11.777551 00001C64 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20250401-15:05:53.949000 00001C64 - ERROR: Error {12029} occured while connecting to server "http://rl.ammyy.com" 
+20250401-15:06:17.444000 00001C64 - ERROR: ERROR: 2 RLEvent::TryToOpen(Global\AANS_FvwjZ_CHI)
